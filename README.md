@@ -1,16 +1,55 @@
-## Hi there 👋
+# Miguel Ortiz
 
-<!--
-**mortiz-dev/mortiz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI infrastructure engineer building provider-agnostic SDKs, durable agent
+runtimes, and Model Context Protocol integrations.
 
-Here are some ideas to get you started:
+I work on the foundations that make production AI applications portable,
+observable, and reliable across providers. My current focus is the
+[Zhivex](https://github.com/Zhivex) ecosystem for TypeScript and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### [Zhivex AI SDK](https://github.com/Zhivex/zhivex-ai-sdk)
+
+An ESM-first TypeScript monorepo for Bun and Node.js with a unified API for
+generation, streaming, structured output, tools, embeddings, multimodal
+messages, provider routing, and durable agents.
+
+[Repository](https://github.com/Zhivex/zhivex-ai-sdk) ·
+[npm](https://www.npmjs.com/package/@zhivex-ai/sdk)
+
+### [Zhivex AI SDK for Python](https://github.com/Zhivex/zhivex-ai-sdk-py)
+
+An async-first, agent-first Python SDK for orchestrated, multi-provider AI
+systems, with durable state, approvals, safety policies, evaluation helpers,
+tracing, workflows, and provider-native escape hatches.
+
+[Repository](https://github.com/Zhivex/zhivex-ai-sdk-py) ·
+[PyPI](https://pypi.org/project/zhivex-ai-sdk/)
+
+### [MCP BCRA](https://github.com/mortiz-dev/mcp-bcra)
+
+A TypeScript MCP server for accessing official financial and banking APIs from
+Argentina's Central Bank, with typed validation, modular domains, timeouts, and
+normalized error handling.
+
+[Repository](https://github.com/mortiz-dev/mcp-bcra)
+
+## Current focus
+
+- Portable agent runtimes with tools, handoffs, approvals, and durable state
+- Multi-provider model contracts and explicit native capabilities
+- Streaming, structured output, observability, evaluations, and safety
+- MCP integrations that turn external APIs into dependable agent tools
+- Release engineering and installed-package validation for SDKs
+
+## Stack
+
+`TypeScript` · `Python` · `Bun` · `Node.js` · `PostgreSQL` · `MCP` ·
+`AI agents`
+
+## About
+
+Based in Buenos Aires, Argentina. I work in English and Spanish.
+
+Explore the projects at [github.com/Zhivex](https://github.com/Zhivex).
