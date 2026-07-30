@@ -52,4 +52,5 @@ normalized error handling.
 
 Based in Buenos Aires, Argentina. I work in English and Spanish.
 
-Explore the projects at [github.com/Zhivex](https://github.com/Zhivex).
+[Zhivex website](https://www.zhivex.com) ·
+[Open-source projects](https://github.com/Zhivex)
