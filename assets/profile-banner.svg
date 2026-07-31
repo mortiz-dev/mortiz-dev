@@ -29,18 +29,20 @@
 
   <rect x="70" y="61" width="6" height="126" rx="3" fill="url(#accent)"/>
   <text x="102" y="119" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="54" font-weight="750" letter-spacing="2">MIGUEL ORTIZ</text>
-  <text x="104" y="160" fill="#b6c5d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="450">AI infrastructure engineer</text>
-  <text x="104" y="194" fill="#8fa3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Provider-agnostic SDKs · Durable agents · MCP integrations</text>
+  <text x="104" y="158" fill="#b6c5d6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="450">AI infrastructure · Data analytics · Business intelligence</text>
+  <text x="104" y="191" fill="#8fa3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Provider-agnostic SDKs · Durable agents · MCP integrations</text>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="650">
     <rect x="103" y="220" width="126" height="36" rx="18" fill="#3178c6" fill-opacity="0.20" stroke="#4d9de0"/>
     <text x="166" y="243" fill="#d7ecff" text-anchor="middle">TypeScript</text>
     <rect x="241" y="220" width="106" height="36" rx="18" fill="#3776ab" fill-opacity="0.22" stroke="#5a98cb"/>
     <text x="294" y="243" fill="#d7ecff" text-anchor="middle">Python</text>
-    <rect x="359" y="220" width="152" height="36" rx="18" fill="#72e6a8" fill-opacity="0.12" stroke="#72e6a8"/>
-    <text x="435" y="243" fill="#baf4d4" text-anchor="middle">Agent runtimes</text>
-    <rect x="523" y="220" width="82" height="36" rx="18" fill="#8b75ff" fill-opacity="0.17" stroke="#9d8cff"/>
-    <text x="564" y="243" fill="#ddd7ff" text-anchor="middle">MCP</text>
+    <rect x="359" y="220" width="110" height="36" rx="18" fill="#f2c811" fill-opacity="0.16" stroke="#f2c811"/>
+    <text x="414" y="243" fill="#fff2a8" text-anchor="middle">Power BI</text>
+    <rect x="481" y="220" width="152" height="36" rx="18" fill="#72e6a8" fill-opacity="0.12" stroke="#72e6a8"/>
+    <text x="557" y="243" fill="#baf4d4" text-anchor="middle">Agent runtimes</text>
+    <rect x="645" y="220" width="82" height="36" rx="18" fill="#8b75ff" fill-opacity="0.17" stroke="#9d8cff"/>
+    <text x="686" y="243" fill="#ddd7ff" text-anchor="middle">MCP</text>
   </g>
 
   <g transform="translate(936 150)">
