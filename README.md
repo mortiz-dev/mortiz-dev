@@ -2,8 +2,9 @@
   <img src="./assets/profile-banner.svg" alt="Miguel Ortiz — AI infrastructure engineer" width="100%">
 </p>
 
-I build the infrastructure behind production AI applications: provider-agnostic
-SDKs, durable agent runtimes, and Model Context Protocol integrations.
+I build the infrastructure behind production AI applications and turn complex
+data into reliable decision tools: provider-agnostic SDKs, durable agent
+runtimes, analytics, and business intelligence dashboards.
 
 My work focuses on making AI systems portable, observable, and reliable across
 providers. I currently contribute to the
@@ -12,8 +13,19 @@ providers. I currently contribute to the
 ## Languages & tools
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="TypeScript, Python, Bun, Node.js, PostgreSQL, MCP, and GitHub Actions" width="100%">
+  <img src="./assets/tech-stack.svg" alt="TypeScript, Python, SQL, Power BI, PostgreSQL, Bun, Node.js, MCP, and GitHub Actions" width="100%">
 </p>
+
+## Data analytics & business intelligence
+
+Alongside my open-source engineering work, I have delivered data analysis and
+Power BI dashboards for teams in the banking sector. This work includes data
+modeling, SQL, Power Query, DAX, KPI design, data quality, and executive and
+operational reporting.
+
+The source files, datasets, screenshots, client details, and internal metrics
+are confidential, so I present the capabilities and methods rather than the
+artifacts.
 
 ## Selected work
 
@@ -32,6 +44,7 @@ to a focused, public-data integration.
 - Portable agent runtimes with tools, handoffs, approvals, and durable state
 - Multi-provider model contracts and explicit native capabilities
 - Streaming, structured output, observability, evaluations, and safety
+- Data modeling, KPI design, and decision-ready Power BI dashboards
 - MCP integrations that turn external APIs into dependable agent tools
 - Release engineering and installed-package validation for SDKs
 
