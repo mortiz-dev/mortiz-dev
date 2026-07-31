@@ -1,39 +1,31 @@
-# Miguel Ortiz
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Miguel Ortiz — AI infrastructure engineer" width="100%">
+</p>
 
-AI infrastructure engineer building provider-agnostic SDKs, durable agent
-runtimes, and Model Context Protocol integrations.
+I build the infrastructure behind production AI applications: provider-agnostic
+SDKs, durable agent runtimes, and Model Context Protocol integrations.
 
-I work on the foundations that make production AI applications portable,
-observable, and reliable across providers. My current focus is the
+My work focuses on making AI systems portable, observable, and reliable across
+providers. I currently contribute to the
 [Zhivex](https://github.com/Zhivex) ecosystem for TypeScript and Python.
+
+## Languages & tools
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="TypeScript, Python, Bun, Node.js, PostgreSQL, MCP, and GitHub Actions" width="100%">
+</p>
 
 ## Selected work
 
-### [Zhivex AI SDK](https://github.com/Zhivex/zhivex-ai-sdk)
+| Project | Language | Focus | Package |
+| --- | :---: | --- | :---: |
+| [Zhivex AI SDK](https://github.com/Zhivex/zhivex-ai-sdk) | TypeScript | Generation, streaming, tools, multimodal AI, provider routing, and durable agents | [npm](https://www.npmjs.com/package/@zhivex-ai/sdk) |
+| [Zhivex AI SDK for Python](https://github.com/Zhivex/zhivex-ai-sdk-py) | Python | Async multi-provider systems, durable state, approvals, safety, tracing, and workflows | [PyPI](https://pypi.org/project/zhivex-ai-sdk/) |
+| [MCP BCRA](https://github.com/mortiz-dev/mcp-bcra) | TypeScript | Typed MCP access to official financial and banking APIs from Argentina's Central Bank | [Repo](https://github.com/mortiz-dev/mcp-bcra) |
 
-An ESM-first TypeScript monorepo for Bun and Node.js with a unified API for
-generation, streaming, structured output, tools, embeddings, multimodal
-messages, provider routing, and durable agents.
-
-[Repository](https://github.com/Zhivex/zhivex-ai-sdk) ·
-[npm](https://www.npmjs.com/package/@zhivex-ai/sdk)
-
-### [Zhivex AI SDK for Python](https://github.com/Zhivex/zhivex-ai-sdk-py)
-
-An async-first, agent-first Python SDK for orchestrated, multi-provider AI
-systems, with durable state, approvals, safety policies, evaluation helpers,
-tracing, workflows, and provider-native escape hatches.
-
-[Repository](https://github.com/Zhivex/zhivex-ai-sdk-py) ·
-[PyPI](https://pypi.org/project/zhivex-ai-sdk/)
-
-### [MCP BCRA](https://github.com/mortiz-dev/mcp-bcra)
-
-A TypeScript MCP server for accessing official financial and banking APIs from
-Argentina's Central Bank, with typed validation, modular domains, timeouts, and
-normalized error handling.
-
-[Repository](https://github.com/mortiz-dev/mcp-bcra)
+The two Zhivex SDKs expose a consistent multi-provider model while preserving
+provider-native capabilities. MCP BCRA applies the same reliability principles
+to a focused, public-data integration.
 
 ## Current focus
 
@@ -42,11 +34,6 @@ normalized error handling.
 - Streaming, structured output, observability, evaluations, and safety
 - MCP integrations that turn external APIs into dependable agent tools
 - Release engineering and installed-package validation for SDKs
-
-## Stack
-
-`TypeScript` · `Python` · `Bun` · `Node.js` · `PostgreSQL` · `MCP` ·
-`AI agents`
 
 ## About
 
