@@ -1,0 +1,7 @@
+{
+  "name": "profile-agent-approval-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {"demo": "bun run demo.ts", "test": "bun test"},
+  "dependencies": {"@zhivex-ai/agents": "1.4.1", "zod": "4.4.3"}
+}

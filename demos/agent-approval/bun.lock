@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "profile-agent-approval-demo",
+      "dependencies": {
+        "@zhivex-ai/agents": "1.4.1",
+        "zod": "4.4.3",
+      },
+    },
+  },
+  "packages": {
+    "@zhivex-ai/agents": ["@zhivex-ai/agents@1.4.1", "", { "dependencies": { "@zhivex-ai/core": "^1.15.0" } }, "sha512-yq5Xv9bSGBBpN4OdxTaIoAMEZnWMCUxlnMFIJS+EZXA+1TOOQ9DCmm+YPZGz+0dNWJV+D7Kx+832MzkalzyYnA=="],
+
+    "@zhivex-ai/core": ["@zhivex-ai/core@1.15.0", "", { "dependencies": { "zod": "^4.4.3" }, "peerDependencies": { "@opentelemetry/api": "^1.9.0" }, "optionalPeers": ["@opentelemetry/api"] }, "sha512-phBJMxy1KX9JXcuqtUP43VriyIdR/4rPXc8Mc2qsGYGUAWMuYD7fUpo3YMgOXQE+IN5ZgfT7b0dLISt2AcwKGw=="],
+
+    "zod": ["zod@4.4.3", "", {}, "sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ=="],
+  }
+}

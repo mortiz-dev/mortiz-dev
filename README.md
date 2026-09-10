@@ -46,25 +46,25 @@ HTTP infrastructure.
 [Contribution](https://github.com/mortiz-dev/mcp-bcra/commit/286095385fede60593989b588c021d70791ac5f7) ·
 [Setup and tools](https://github.com/mortiz-dev/mcp-bcra#instalación-y-ejecución)
 
-### [Service operations analytics — synthetic case study](./case-studies/service-operations/README.md)
+## Banking analytics & Power BI
 
-A reproducible portfolio example connecting data quality checks, SQL, KPI
-definitions, a visual summary, and Power BI modeling guidance.
-**All data is synthetic.** This is a demonstration, not a client delivery or a
-claim about a real bank's performance.
+I build and maintain Power BI dashboards for banking teams, combining semantic
+modeling, DAX, SQL, Power Query, data quality checks, and operational reporting.
+My work turns reporting requirements into defined KPIs and data models that
+support executive and operational analysis.
 
-[View the analysis](./case-studies/service-operations/README.md) ·
-[Dataset](./case-studies/service-operations/data.csv) ·
-[SQL](./case-studies/service-operations/metrics.sql)
+Banking projects and their semantic models remain confidential. Public examples
+are independent demonstrations created with synthetic data.
 
-## Banking analytics & business intelligence
+[Explore the synthetic analytics example](./case-studies/service-operations/README.md)
+— dataset, SQL, a visual summary, and a Power BI modeling recipe.
 
-I have delivered data analysis and Power BI dashboards for teams in the banking
-sector, covering data modeling, SQL, Power Query, DAX, KPI design, data quality,
-and executive and operational reporting.
+## Try an agent approval flow
 
-Client work remains confidential. The independent synthetic example above shows
-an analytical approach without reproducing client datasets, dashboards, or metrics.
+[Run the approval demo](./demos/agent-approval/README.md): an agent proposes a
+simulated action, pauses for approval, and executes it only when you approve.
+It uses the real Zhivex agent runtime with a scripted model, synthetic inputs,
+and no API keys. You can also deny the action and verify that it never executes.
 
 ## Languages & tools
 
