@@ -1,0 +1,49 @@
+month,channel,closed_cases,within_sla,source
+2025-01,Mobile app,1000,960,synthetic
+2025-01,Web,700,665,synthetic
+2025-01,Contact center,550,512,synthetic
+2025-01,Branch,350,322,synthetic
+2025-02,Mobile app,1035,995,synthetic
+2025-02,Web,720,684,synthetic
+2025-02,Contact center,560,518,synthetic
+2025-02,Branch,355,324,synthetic
+2025-03,Mobile app,1070,1029,synthetic
+2025-03,Web,740,704,synthetic
+2025-03,Contact center,570,525,synthetic
+2025-03,Branch,360,327,synthetic
+2025-04,Mobile app,1105,1064,synthetic
+2025-04,Web,760,723,synthetic
+2025-04,Contact center,580,532,synthetic
+2025-04,Branch,365,329,synthetic
+2025-05,Mobile app,1140,1099,synthetic
+2025-05,Web,780,743,synthetic
+2025-05,Contact center,590,538,synthetic
+2025-05,Branch,370,331,synthetic
+2025-06,Mobile app,1175,1134,synthetic
+2025-06,Web,800,762,synthetic
+2025-06,Contact center,600,544,synthetic
+2025-06,Branch,375,333,synthetic
+2025-07,Mobile app,1210,1169,synthetic
+2025-07,Web,820,781,synthetic
+2025-07,Contact center,610,551,synthetic
+2025-07,Branch,380,335,synthetic
+2025-08,Mobile app,1245,1204,synthetic
+2025-08,Web,840,801,synthetic
+2025-08,Contact center,620,557,synthetic
+2025-08,Branch,385,337,synthetic
+2025-09,Mobile app,1280,1239,synthetic
+2025-09,Web,860,820,synthetic
+2025-09,Contact center,630,563,synthetic
+2025-09,Branch,390,339,synthetic
+2025-10,Mobile app,1315,1274,synthetic
+2025-10,Web,880,840,synthetic
+2025-10,Contact center,640,569,synthetic
+2025-10,Branch,395,340,synthetic
+2025-11,Mobile app,1350,1310,synthetic
+2025-11,Web,900,860,synthetic
+2025-11,Contact center,650,575,synthetic
+2025-11,Branch,400,342,synthetic
+2025-12,Mobile app,1385,1345,synthetic
+2025-12,Web,920,879,synthetic
+2025-12,Contact center,660,581,synthetic
+2025-12,Branch,405,344,synthetic
