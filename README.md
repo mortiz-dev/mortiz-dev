@@ -6,10 +6,23 @@ I build AI infrastructure in TypeScript and Python: multi-provider SDKs,
 durable agent runtimes, and MCP integrations. My background in banking
 analytics shapes how I approach data quality, traceability, and reliable systems.
 
-I contribute to the [Zhivex](https://github.com/Zhivex) ecosystem, with public
-work on agent safety, persistence, provider integrations, and release validation.
+Founder of [Zhivex](https://github.com/Zhivex), building provider-agnostic AI tools,
+coding-agent runtimes, TypeScript and Python SDKs, and MCP integrations. My public
+work includes agent safety, persistence, provider integrations, and release validation.
 
 ## Selected work
+
+### [Zhivex Harness / Code](https://github.com/Zhivex/zhivex-harness)
+
+Work on a repository with a local coding agent. Review edits and consequential
+actions through explicit permissions, and continue conversations across restarts.
+Harness provides the runtime and terminal assistant; Code is a separate CLI on
+that engine.
+
+[Quickstart](https://github.com/Zhivex/zhivex-harness#quick-start) ·
+[Permissions and limits](https://github.com/Zhivex/zhivex-harness#permissions-and-limits) ·
+[Harness on npm](https://www.npmjs.com/package/@zhivex-ai/harness) ·
+[Code on npm](https://www.npmjs.com/package/@zhivex-ai/code)
 
 ### [Zhivex AI SDK — TypeScript](https://github.com/Zhivex/zhivex-ai-sdk)
 
